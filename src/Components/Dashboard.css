@@ -1,0 +1,37 @@
+body{
+  background-color: #ffffff;
+}
+/* .container{
+  width: 80%;
+  margin: 10% auto;
+  height: 80%;
+}  */
+.button-box1{
+  width: 30%;
+  height: 60%;
+  padding: 3% 0%;
+  margin: 5% 35%;
+  position: absolute;
+  border-radius: 30px;
+  background-color: white;
+  box-shadow: 0 0 20px 9px #50382e1f;
+}
+
+.toggle-btn1{
+  border: thin;
+  width: 80%;
+  text-align: center;
+  margin: 10% 10%;
+  padding:2%;
+  border-radius: 10px;
+  background:white;
+  color: #e64100;
+  font-weight: 750;
+  font-size: large;
+}
+
+button:active {
+  color: white;
+  outline: none;
+}
+

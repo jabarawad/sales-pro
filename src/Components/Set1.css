@@ -1,0 +1,43 @@
+body{
+    background-color: #ffffff;
+}
+.Question{
+    padding-top: 10%;
+    position:relative;
+    text-align: center;
+}
+.container2{
+    width: 80%;
+    margin: 10% auto;
+    height: 100%;  
+}
+.button-box2{
+    width: 360px;
+    height: 100%;
+    margin: 0% auto 20%;
+    position: relative;
+    border-radius: 30px;
+    background: white;
+    box-shadow: 0 0 20px 9px #50382e1f;
+}
+
+.toggle-btn2{
+    border: thin;
+    width: 80%;
+    height: 10%;
+    text-align: center;
+    margin: 10% 10%;
+    padding:2%;
+    border-radius: 10px;
+    background-color:#ee5114;
+    color: #d3e4fd;
+    font-weight: 750;
+}
+button:active {
+    background: #c53901;
+    -webkit-box-shadow: inset 0px 0px 5px #a83204;
+       -moz-box-shadow: inset 0px 0px 5px #a83204;
+            box-shadow: inset 0px 0px 5px #a83204;
+     outline: none;
+  }
+

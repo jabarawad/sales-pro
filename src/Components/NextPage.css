@@ -1,0 +1,38 @@
+body{
+    background-color: #ffffff;
+}
+button{
+    position: relative;
+    height: 50px;
+    width: 60%;
+    border: thin;
+    margin: 20%;
+    background-color:#ee5114;
+    color: #d3e4fd;
+    font-weight: 750;
+    border-radius: 10px;
+}
+.container3{
+    width: 40%;
+    margin: 10% auto;
+    height: 100%;
+}
+.button-box3{
+    width: 100%;
+    height: 100%;
+    padding: 10%;
+    margin: 20% auto 20%;
+    position: relative;
+    border-radius: 30px;
+    background-color: white;
+    box-shadow: 0 0 20px 9px #50382e1f;
+}
+
+button:active {
+    background: #c53901;
+    -webkit-box-shadow: inset 0px 0px 5px #a83204;
+       -moz-box-shadow: inset 0px 0px 5px #a83204;
+            box-shadow: inset 0px 0px 5px #a83204;
+     outline: none;
+  }
+
